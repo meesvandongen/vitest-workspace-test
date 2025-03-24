@@ -1,0 +1,10 @@
+{
+  "name": "vitest-workspace-test",
+  "scripts": {
+    "test": "vitest"
+  },
+  "dependencies": {
+    "jsdom": "^26.0.0",
+    "vitest": "^3.0.9"
+  }
+}
